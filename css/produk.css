@@ -1,0 +1,34 @@
+@import url(../vendor/bootstrap/bootstrap-icons.css);
+
+body {
+    font-family: 'Poppins';
+}
+
+footer a.nav-link {
+    color: #fff;
+}
+
+footer {
+    color: #fff;
+    padding: 10px 30px;
+}
+
+section.produk {
+    min-height: 90vh;
+}
+
+.produk .card img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.produk .card-title {
+    height: 45px;
+}
+
+.produk .hargasize {
+    height: 45px;
+}
+
+/* Tambahan css produk tulis setelah kode ini */
